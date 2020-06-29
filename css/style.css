@@ -1,0 +1,23 @@
+.btn-outline-white a {
+    color: white;
+}
+
+img {
+    max-width: 60%;
+    height: auto;
+    margin: auto;
+}
+
+video{
+    max-width: 60%;
+    height: auto;
+    margin: auto;
+}
+
+.carousel-item{
+    border: 2px solid white;
+}
+
+.jumbotron{
+    background-color: #00acc1;
+}
